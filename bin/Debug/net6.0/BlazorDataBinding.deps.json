@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BlazorDataBinding/1.0.0": {
+        "dependencies": {
+          "DataBinding_Models": "1.0.0"
+        },
+        "runtime": {
+          "BlazorDataBinding.dll": {}
+        }
+      },
+      "DataBinding_Models/1.0.0": {
+        "runtime": {
+          "DataBinding_Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorDataBinding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataBinding_Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿@page "/databinding"
+@using DataBinding_Models 
+<h3>Bind Property</h3>
+<p>This is one way binding</p>
+<div>
+    <b>Id</b>:@demoProduct.Id<br />
+    <b>Name</b>: @demoProduct.Name<br />
+    <b>Price:</b> @demoProduct.Price<br/>
+    <b>IsActive</b>: @demoProduct.IsActive<br />
+
+   <p>Product has been @(demoProduct.IsActive?"added":"removed")</p> 
+    Price is: <input type="number" @bind-value="demoProduct.Price" @bind-value:event="oninput"/>
+    <br />
+    Added to cart: <input type="checkbox" @bind="demoProduct.IsActive"/>
+</div>
+
+@code {
+    DemoProducts demoProduct = new()
+    {
+        Id=1,
+        Name = "C#Corner",
+        Price= 298,
+        IsActive=true
+    };
+
+}
