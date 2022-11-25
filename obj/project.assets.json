@@ -1,12 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "DataBinding_Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DataBinding_Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataBinding_Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DataBinding_Models/1.0.0": {
+      "type": "project",
+      "path": "../DataBinding_Models/DataBinding_Models.csproj",
+      "msbuildProject": "../DataBinding_Models/DataBinding_Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "D:\\VijayPracticeProjects\\FridaySession\\DataBinding_Models\\DataBinding_Models.csproj"
+      "DataBinding_Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -76,16 +93,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'D:\\VijayPracticeProjects\\FridaySession\\DataBinding_Models\\DataBinding_Models.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "D:\\VijayPracticeProjects\\FridaySession\\DataBinding_Models\\DataBinding_Models.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

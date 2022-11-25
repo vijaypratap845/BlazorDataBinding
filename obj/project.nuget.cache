@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UOqp2B08IWMvuzH4AHF5Xin80ZErDTofayrTZbYOx1c7y9deE52vgXclSPVMWp0zY7YS9NW7JdphFzHwG07lVA==",
-  "success": false,
+  "dgSpecHash": "Vy6vUZuhdnMLqkvg/v46aRmhtOSLKCH9HcdamBGn2Uq/rq/XVXQ/19cJKJy0UE4avUNvo101Mc6GkxY7PqrAQw==",
+  "success": true,
   "projectFilePath": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\BlazorDataBinding.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'D:\\VijayPracticeProjects\\FridaySession\\DataBinding_Models\\DataBinding_Models.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "D:\\VijayPracticeProjects\\FridaySession\\DataBinding_Models\\DataBinding_Models.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

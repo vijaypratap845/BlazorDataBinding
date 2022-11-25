@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Oha2RGaOCBUnglC2hKBEh6cmMo3rw92qpRLLXQ0vF1w=",
+  "Hash": "3fqCHG/tp2dtfHOEaFzclTvLpnmp4Eq0PIwlpTzuszA=",
   "Source": "BlazorDataBinding",
   "BasePath": "_content/BlazorDataBinding",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorDataBinding\\wwwroot",
       "Source": "BlazorDataBinding",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\",
       "BasePath": "_content/BlazorDataBinding",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorDataBinding.styles.css",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorDataBinding.styles.css",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "BlazorDataBinding.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\VijayPracticeProjects\\BlazorDataBinding\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorDataBinding.styles.css"
+      "OriginalItemSpec": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorDataBinding.styles.css"
     },
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorDataBinding.bundle.scp.css",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorDataBinding.bundle.scp.css",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "BlazorDataBinding.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\VijayPracticeProjects\\BlazorDataBinding\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorDataBinding.bundle.scp.css"
+      "OriginalItemSpec": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorDataBinding.bundle.scp.css"
     },
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\css\\site.css",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\css\\site.css",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\favicon.ico",
+      "Identity": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\favicon.ico",
       "SourceId": "BlazorDataBinding",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\VijayPracticeProjects\\BlazorDataBinding\\wwwroot\\",
+      "ContentRoot": "D:\\VijayPracticeProjects\\FridaySession\\BlazorDataBinding\\wwwroot\\",
       "BasePath": "_content/BlazorDataBinding",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
